@@ -1,5 +1,4 @@
 # What's up guys!
-Full Stack Student
 🇧🇷 Born in Minas Gerais, Brazil
 
 # About me
